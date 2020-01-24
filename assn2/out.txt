@@ -1,0 +1,16 @@
+Parent, Value: 1
+Child, Value: 7
+Grandchild, Value: 31
+Parent, Value: 127
+Child, Value: 511
+Grandchild, Value: 2047
+Parent, Value: 8191
+Child, Value: 32767
+Grandchild, Value: 131071
+Parent, Value: 524287
+Child, Value: 2097151
+Grandchild, Value: 8388607
+Parent, Value: 33554431
+Child, Value: 134217727
+Grandchild, Value: 536870911
+Parent, Value: 2147483647
